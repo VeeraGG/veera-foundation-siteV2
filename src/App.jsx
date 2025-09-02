@@ -148,7 +148,7 @@ export default function App() {
 
             <section className="mx-auto max-w-6xl px-4 py-12">
               <h3 className="text-xl font-semibold mb-4">Our Idea</h3>
-              <p className="text-neutral-700 mb-6">At Veera Foundation, we believe masculinity is not to be defended or feared, but to be reimagined. Our work rests on four interconnected ideas — each card is interactive. Click to explore.</p>
+              <p className="text-neutral-700 mb-6">At Veera Foundation, we believe masculinity is not to be defended or feared, but to be reimagined. Our work rests on four interconnected ideas —
 
               <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
                 <div onClick={()=>alert('Positive Masculinity clicked')}>
