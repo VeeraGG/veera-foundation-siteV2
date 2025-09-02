@@ -202,7 +202,7 @@ export default function App() {
 
               <div>
                 <div className="rounded-2xl p-6" style={{background:COLORS.cream}}>
-                  <h4 className="font-semibold">Why it matters (DATA)</h4>
+                  <h4 className="font-semibold">Why it matters </h4>
                   <p className="mt-2 text-neutral-700">Men make up more than half of India’s population — yet only <strong>0.3%</strong> of gender equality efforts engage them meaningfully (UNESCO, 2022).</p>
                   <p className="mt-2 text-neutral-700">Veera exists to change this — because when men are seen, supported, and invited to grow, everyone benefits.</p>
                 </div>
